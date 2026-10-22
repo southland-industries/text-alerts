@@ -1,4 +1,4 @@
-Southland Industries alerts via Delta EnteliWEB
+# Southland Industries alerts via Delta EnteliWEB
 
 1. Clients of Southland Industries where we facilitate Delta EnteliWEB on their behalf may request to receive text message alerts from Delta EnteliWEB. This service requires explicit written opt-in or a phone call discussion with one of our representitives as it does require additional configuration within the management portal.
 
